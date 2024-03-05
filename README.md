@@ -1,6 +1,6 @@
 ## Hi, I'm [alanalveses]([https://github.com/alanalveses/readme-test/blob/main/LICENSE](https://www.linkedin.com/in/alanalveses/) "Linkedin"). 👋
 
-- 👨‍💻 I want to be part of a dev squad
+- 👨‍💻 I look forward to being part of your dev squad
 - 👀 I'm interested in improving my knowledge in web development
 - 💞️ I'm looking to collaborate on techniques and knowledge of React and Next Js
 - 🌱 I'm currently learning more about Java
