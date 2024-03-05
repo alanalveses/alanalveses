@@ -1,21 +1,11 @@
-## Olá, eu me chamo Alan Alves 👋
+## Hi, I'm [alanalveses]([https://github.com/alanalveses/readme-test/blob/main/LICENSE](https://www.linkedin.com/in/alanalveses/) "Linkedin"). 👋
 
-<!--
-
-Here are some ideas to get you started:
-
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 Trabalho com front-end
-- 🌱 Estudnando NextJs e Java
-- 😄 Pronouns: ele/dele
+- 👨‍💻 I want to be part of a dev squad
+- 👀 I'm interested in improving my knowledge in web development
+- 💞️ I'm looking to collaborate on techniques and knowledge of React and Next Js
+- 🌱 I'm currently learning more about Java
+- 😄 Discovering new solutions to old problems releases oxytocin
+- 📫 How to contact me? alan.alveses@gmail.com || https
 
 </br>
 
