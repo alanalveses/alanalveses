@@ -4,7 +4,7 @@
 - 👀 I'm interested in improving my knowledge in web development
 - 💞️ I'm looking to collaborate on techniques and knowledge of React and Next Js
 - 🌱 I'm currently learning more about Java
-- 😄 Discovering new solutions to old problems releases oxytocin
+- 😄 Discovering new things releases oxytocin
 - 📫 How to contact me? alan.alveses@gmail.com || https
 
 </br>
