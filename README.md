@@ -5,7 +5,7 @@
 - 💞️ I'm looking to collaborate on techniques and knowledge of React and Next Js
 - 🌱 I'm currently learning more about Java
 - 😄 Discovering new things releases oxytocin
-- 📫 How to contact me? alan.alveses@gmail.com || https
+- 📫 How to contact me? alan.alveses@gmail.com || [alansoluctions.tech](https://alansolutions.tech/)
 
 </br>
 
@@ -25,11 +25,23 @@
 </br>
 
 <div> 
- 	<a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alan.alveses@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
+ 	<a href="https://www.linkedin.com/in/alanalveses/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://alansolutions.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:alan.alveses@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://wa.me/5511962178615?text=Olá,%20gostaria%20de%20saber%20mais%20sobre%20os%20serviços%20oferecidos!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/alanalveses/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+ <a href="https://br.pinterest.com/alanalveses/" target="_blank">
+  <img src="https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
+</a>
+
 </div>
