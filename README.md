@@ -5,7 +5,7 @@
 - 💞️ I'm looking to collaborate on techniques and knowledge of React and Next Js
 - 🌱 I'm currently learning more about Java
 - 😄 Discovering new things releases oxytocin
-- 📫 How to contact me? alan.alveses@gmail.com || [alansoluctions.tech](https://alansolutions.tech/)
+- 📫 How to contact me? alan.alveses@gmail.com || [alanalves.site](https://www.alanalves.site/)
 
 </br>
 
@@ -19,6 +19,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 </br>
